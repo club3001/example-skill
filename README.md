@@ -13,5 +13,8 @@ Strukturiertes Workflow nach dem B.L.A.S.T.-Protokoll.
 ### 3. FlashLoop Explainer (`flashloop/SKILL.md`)
 Einfache Erklärung von FlashLoop (effiziente Looped Transformers).
 
+### 4. ai.txt (`ai-txt/SKILL.md`)
+Erklärung von ai.txt und Vergleich zu llms.txt / robots.txt.
+
 ## Nutzung
 Die `SKILL.md`-Dateien können als Vorlage dienen oder direkt als Skill verwendet werden.
