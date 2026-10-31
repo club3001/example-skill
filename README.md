@@ -11,10 +11,13 @@ Einfache Erklärungen zu GitHub-Begriffen für Anfänger.
 Strukturiertes Workflow nach dem B.L.A.S.T.-Protokoll.
 
 ### 3. FlashLoop Explainer (`flashloop/SKILL.md`)
-Einfache Erklärung von FlashLoop (effiziente Looped Transformers).
+Einfache Erklärung von FlashLoop.
 
 ### 4. ai.txt (`ai-txt/SKILL.md`)
 Erklärung von ai.txt und Vergleich zu llms.txt / robots.txt.
+
+### 5. grok2api (`grok2api/SKILL.md`)
+Erklärung des Community-Gateways chenyme/grok2api.
 
 ## Nutzung
 Die `SKILL.md`-Dateien können als Vorlage dienen oder direkt als Skill verwendet werden.
