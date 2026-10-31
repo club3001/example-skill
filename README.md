@@ -1,14 +1,15 @@
 # Example Skill
 
-Dieses Repository ist ein **Beispiel**, wie ein Grok-Skill aufgebaut sein kann.
+Dieses Repository enthält Beispiel-Skills für Grok.
 
-## Dateien
-- `SKILL.md` — Die eigentliche Skill-Datei (Frontmatter + Anweisungen)
-- `CHANGELOG.md` — Änderungshistorie
+## Enthaltene Skills
 
-## So funktioniert es
-1. Die `SKILL.md` enthält im oberen Teil (YAML) den Namen und die Beschreibung.
-2. Darunter stehen die Anweisungen, die die KI nutzen soll.
-3. Man kann so ein Repo anlegen, die Dateien hochladen und die KI darauf zugreifen lassen.
+### 1. GitHub Basics (`SKILL.md`)
+Einfache Erklärungen zu GitHub-Begriffen für Anfänger.
 
-Viel Spaß beim Ausprobieren!
+### 2. Antigravity Master (`antigravity-master/SKILL.md`)
+Strukturiertes Workflow nach dem B.L.A.S.T.-Protokoll (inspiriert von Google Antigravity).
+Ideal für komplexe, zuverlässige Automatisierungen und Projekt-Setups.
+
+## Nutzung
+Die `SKILL.md`-Dateien können als Vorlage dienen oder direkt als Skill verwendet werden.
